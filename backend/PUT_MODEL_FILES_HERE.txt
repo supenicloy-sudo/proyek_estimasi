@@ -1,0 +1,7 @@
+Taruh file berikut di folder ini (sejajar dengan main.py):
+naive_bayes_pipeline.pkl
+kmeans_model.pkl
+kmeans_scaler.pkl
+kmeans_preprocessing.pkl
+tfidf_nama_produk.pkl
+data_produk_hasil.csv
